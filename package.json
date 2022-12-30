@@ -23,7 +23,7 @@
   "homepage": "https://github.com/heapwolf/peerlinks-storage#readme",
   "dependencies": {
     "esm": "^3.2.25",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "standard": "^14.3.3"
   }
 }
